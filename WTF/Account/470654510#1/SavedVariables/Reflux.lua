@@ -8,6 +8,8 @@ RefluxDB = {
 			["Reflux"] = true,
 			["SharedMedia"] = true,
 			["ACP"] = true,
+			["Leatrix_Plus"] = true,
+			["Masque"] = true,
 		},
 	},
 	["ignored"] = {
