@@ -5,10 +5,11 @@ RefluxDB = {
 	["activeProfile"] = "BolteUI",
 	["addons"] = {
 		["BolteUI"] = {
-			["Reflux"] = true,
-			["SharedMedia"] = true,
-			["ACP"] = true,
 			["Leatrix_Plus"] = true,
+			["SharedMedia"] = true,
+			["Neuron"] = true,
+			["ACP"] = true,
+			["Reflux"] = true,
 			["Masque"] = true,
 		},
 	},

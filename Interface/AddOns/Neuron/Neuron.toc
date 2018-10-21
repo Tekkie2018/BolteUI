@@ -1,0 +1,44 @@
+## Interface: 80000
+## Title: Neuron
+## Notes: A macro-based action bar and object manager add-on
+## Author: Britt Yazel (aka Soyier) and Connor Chenoweth (aka Maul)
+## X-Credits-Maintainer: Soyier
+## Version: 0.9.35b
+## DefaultState: enabled
+## OptionalDeps: Masque
+## SavedVariables: NeuronProfilesDB
+## SavedVariablesPerCharacter:
+## X-Copyright: Copyright© 2006-2014 Connor H. Chenoweth, aka Maul - All rights reserved.
+## X-Permissions: Fork of Ion Action Bars with express permission from Connor H. Chenoweth, aka Maul
+## X-Email: bwyazel@gmail.com
+
+
+Libs\embeds.xml
+Localizations\Neuron_Localizations.xml
+
+
+Neuron.lua
+
+Utilities/DB-Fixer.lua
+
+Neuron-States.lua
+Neuron-Buttons.lua
+Neuron-Bars.lua
+Neuron-KeyBinder.lua
+Neuron-SnapTo.lua
+Neuron-MinimapIcon.lua
+Neuron-Flyouts.lua
+
+Neuron.xml
+
+Bar-Modules/Neuron-Extra.lua
+Bar-Modules/Neuron-ZoneAbility.lua
+Bar-Modules/Neuron-Bag.lua
+Bar-Modules/Neuron-Menu.lua
+Bar-Modules/Neuron-Pet.lua
+Bar-Modules/Neuron-Status.lua
+Bar-Modules/Neuron-Status.xml
+Bar-Modules/Neuron-Exit.lua
+
+Neuron-GUI.lua
+Neuron-GUI.xml

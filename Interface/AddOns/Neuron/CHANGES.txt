@@ -1,0 +1,10 @@
+lightweight tag ddf1629b505ebeb7d0fdd2c6e5dcba733f09daaf 0.9.35b
+Author:	Britt Yazel <bwyazel@gmail.com>
+Date:	Thu Aug 23 13:11:55 2018 -0700
+
+commit ddf1629b505ebeb7d0fdd2c6e5dcba733f09daaf
+Author: Britt Yazel <bwyazel@gmail.com>
+Date:   Thu Aug 23 13:11:55 2018 -0700
+
+    Cleanup extra tooltip code a small bit
+
