@@ -1,0 +1,5 @@
+BINDINGMODE 0
+bind A NONE
+bind LEFT NONE
+bind D NONE
+modifiedclick CTRL PICKUPACTION
